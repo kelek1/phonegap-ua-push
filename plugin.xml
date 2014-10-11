@@ -190,16 +190,7 @@
 
         <!-- UI Resource files -->
         <resource-file src="src/ios/Airship/UI/Default/Common/Resources/Settings.bundle" target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/de.lproj"  target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/en.lproj"  target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/es.lproj"  target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/fr.lproj"  target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/it.lproj"  target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/ja.lproj"  target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/pt.lproj"  target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/zh-Hans.lproj"  target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/zh-Hant.lproj"  target-dir="src/ios/Airship/UI/Default/Common/Resources" />
-
+    
         <source-file src="src/ios/Airship/libUAirship-5.0.1.a" framework="true"/>
 
         <!-- system frameworks -->
